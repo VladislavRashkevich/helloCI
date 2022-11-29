@@ -10,4 +10,4 @@ def test_three():
     
 def test_fore():
     a = 3
-    assert a == 2, "Num is not True" 
+    assert a == 3, "Num is not True" 
